@@ -29,3 +29,5 @@
 
 ## Author
 Karan
+<img width="1545" height="987" alt="Screenshot ReportPass1" src="https://github.com/user-attachments/assets/c77f9c62-b81e-4e62-afdb-e5712117cb12" />
+<img width="1557" height="947" alt="Screenshot ReportPass2" src="https://github.com/user-attachments/assets/1a30b644-6417-4fa5-90c1-fcdc8a11ab9d" />
