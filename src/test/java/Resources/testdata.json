@@ -1,0 +1,15 @@
+{
+  "TC01": {
+  "username": "Enter Your username",
+  "password": "Enter Your Password"
+},
+
+  "TC02":{
+    "username": "Enter Your username",
+    "password": "Enter Your Password",
+"product": "SamsungS26",
+    "product detailSpec": "Galaxy S26 5G (Cobalt",
+"Instruction_adding": "Deliver ih hand and ring bell , if not available give to Flat 103",
+"Payment_code": "Karancode"
+}
+}
